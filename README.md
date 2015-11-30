@@ -1,1 +1,4 @@
-# 我的OpenGL项目，提交记录.xxxxxxxxxxxxxxxxxxxxxxxxxxx
+# 我的OpenGL项目，提交记录:
+ 2015.11.28   规范化开发，创建窗口框架库WndFrame和GuiLib库
+ 2015.11.29   增加三角体和正方体的绘制
+ 2015.11.30   增加纹理映射
