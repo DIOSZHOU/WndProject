@@ -30,6 +30,9 @@
     <ClInclude Include="ScreenDlg.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="CBMPLoader.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="GLFrame.cpp">
@@ -39,6 +42,9 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="ScreenDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CBMPLoader.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
